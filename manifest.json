@@ -1,0 +1,11 @@
+{
+    "name": "CodersStack PythonIDE",
+    "version": "1.0.0",
+    "description": "Chrome Extension - Python IDE",
+    "manifest_version": 3,
+    "author": "CodersStack",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "CodersStackPythonIDE"
+    }
+}
